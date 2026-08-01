@@ -47,4 +47,4 @@
 ## 📫 Connect With Me
 
 - 📧 Email: lagnajitadas2000@gmail.com
-- 💼 LinkedIn: LinkedIn: https://www.linkedin.com/in/lagnajita-das-4600a92b2
+- 💼 LinkedIn: https://www.linkedin.com/in/lagnajita-das-4600a92b2
