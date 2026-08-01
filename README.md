@@ -24,9 +24,25 @@
 <img src="https://streak-stats.demolab.com?user=lagnajitadas&theme=tokyonight&hide_border=true"/>
 </p>## 📈 Contribution Graph
 
+## 💻 Tech Stack
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lagnajitadas&theme=tokyo-night"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,mysql,git,github,vscode" />
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lagnajitadas&show_icons=true&theme=tokyonight"/>
-</p>
+
+---
+
+## 🎯 Currently Learning
+
+- Java
+- Python
+- Data Structures & Algorithms
+- DBMS
+- Web Development
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: lagnajitadas2000@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
