@@ -9,32 +9,67 @@
 <p align="center">
 <a href="https://github.com/lagnajitadas">
 <img src="https://komarev.com/ghpvc/?username=lagnajitadas&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</a>
-</p></a>
+  </a>
+
 </p>
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=lagnajitadas&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lagnajitadas&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lagnajitadas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagnajitadas&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=lagnajitadas&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=lagnajitadas&theme=tokyonight&hide_border=true" />
 </p>
 
+
 ## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lagnajitadas&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
 
 ## 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,mysql,git,github,vscode" />
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c" />
 </p>
 
----
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+- 🎓 BCA student at MAKAUT
+- 💻 Aspiring Software Engineer
+- 🌱 Currently learning Java, Python, DSA, DBMS & Web Development
+- 🧩 Interested in software development and problem solving
+- 📊 Certified in Data Analytics
+- 🚀 Focused on building strong programming and development skills
+
 
 ## 🎯 Currently Learning
+## 🚀 Projects
+
+Currently building my programming and development skills through academic and personal practice.
+
+### 🔹 Upcoming Projects
+- 🌐 Web Development Project
+- 🐍 Python-based Application
+- ☕ Java Application
+- 🗄️ Database Management Project
 
 - Java
 - Python
@@ -46,5 +81,14 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: lagnajitadas2000@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/lagnajita-das-4600a92b2
+<p align="center">
+  <a href="mailto:lagnajitadas2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lagnajita-das-4600a92b2">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/lagnajitadas">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
