@@ -19,7 +19,7 @@ Aspiring Software Engineer | BCA Student | Passionate Developer
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lagnajitadas&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=lagnajitadas&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 </p>
 
 ---
