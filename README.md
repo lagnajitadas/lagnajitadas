@@ -26,9 +26,9 @@ Aspiring Software Engineer | BCA Student | Passionate Developer
 
 ## 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/2f81f7/lagnajitadas" alt="Lagnajita's GitHub Contribution Graph" />
 
-  <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lagnajitadas&theme=react-dark&hide_border=true" width="95%" />
 </p>
 
 ---
